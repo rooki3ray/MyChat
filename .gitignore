@@ -1,0 +1,8 @@
+UserInfo.db
+.vscode/
+.idea/
+__pycache__/
+venv/
+mary/
+mike/
+siri/
